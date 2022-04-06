@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2022-04-06T07:30:26.501Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" version="16.4.5" etag="jKFsSuINUkyisZfRmixW" type="github"><diagram id="S3k_9M7Orrjj5RHdxLDD">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-06T08:43:43.830Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="dHez5UWBHRQRZjf2jj73" version="16.4.5" type="github">
+  <diagram id="S3k_9M7Orrjj5RHdxLDD" name="Page-1">
+    <mxGraphModel dx="1586" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rS4QNRmU35QOYl01cyVI-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rS4QNRmU35QOYl01cyVI-1" target="rS4QNRmU35QOYl01cyVI-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rS4QNRmU35QOYl01cyVI-1" value="&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 12pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 12pt&quot;&gt;doGetBean(&lt;span style=&quot;color: #e16227&quot;&gt;name&lt;/span&gt;, &lt;span style=&quot;color: #d73a49&quot;&gt;null&lt;/span&gt;, &lt;span style=&quot;color: #d73a49&quot;&gt;null&lt;/span&gt;, &lt;span style=&quot;color: #d73a49&quot;&gt;false&lt;/span&gt;)&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="20" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rS4QNRmU35QOYl01cyVI-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rS4QNRmU35QOYl01cyVI-2" target="rS4QNRmU35QOYl01cyVI-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rS4QNRmU35QOYl01cyVI-2" value="&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 12pt&quot;&gt;getSingleton&lt;span style=&quot;color: #005cc5&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #e16227&quot;&gt;beanName&lt;/span&gt;, &lt;span style=&quot;color: #d73a49&quot;&gt;true&lt;/span&gt;&lt;span style=&quot;color: #005cc5&quot;&gt;)&lt;/span&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="110" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rS4QNRmU35QOYl01cyVI-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rS4QNRmU35QOYl01cyVI-4" target="rS4QNRmU35QOYl01cyVI-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rS4QNRmU35QOYl01cyVI-4" value="&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 12pt&quot;&gt;markBeanAsCreated(beanName)&lt;/pre&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="200" width="440" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rS4QNRmU35QOYl01cyVI-6" value="DefaultSingletonBeanRegistry#getSingleton" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="290" width="440" height="45" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
