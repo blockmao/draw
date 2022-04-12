@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2022-04-12T02:36:51.610Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" version="17.4.3" etag="pWVY_1XBZ1708GCoIwyU" type="github"><diagram id="x_vPcyckCV8gsvis0k4D">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-12T02:41:22.750Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="9RS9l-LHiJC4r5FwZ1Dh" version="17.4.3" type="github">
+  <diagram id="x_vPcyckCV8gsvis0k4D" name="Page-1">
+    <mxGraphModel dx="1186" dy="751" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bbms2d1sNWzjbzcoryUv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bbms2d1sNWzjbzcoryUv-1" target="bbms2d1sNWzjbzcoryUv-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bbms2d1sNWzjbzcoryUv-1" value="价格调整申请" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="120" y="160" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bbms2d1sNWzjbzcoryUv-2" value="t_pricemgr_price_change_apply&lt;br&gt;t_pricemgr_price_change_apply_detail" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="165" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bbms2d1sNWzjbzcoryUv-3" value="调整明细" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="120" y="290" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bbms2d1sNWzjbzcoryUv-4" value="t_salemgr_region_price_detail&lt;br&gt;t_salemgr_global_price_detail&lt;br&gt;t_salemgr_customer_price_detail" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="290" width="210" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
