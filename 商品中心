@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-12T03:31:24.055Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="GKwMASbt2qBH1tKew_85" version="17.4.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-12T03:32:38.279Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="aIoNk1YwUSrfa0Lg-MW1" version="17.4.3" type="github" pages="2">
   <diagram id="x_vPcyckCV8gsvis0k4D" name="Page-1">
     <mxGraphModel dx="1186" dy="751" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -75,10 +75,10 @@
         <mxCell id="mCMpDl1J_iWMy6SQUl0Q-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fontColor=#000000;" edge="1" parent="1" source="mCMpDl1J_iWMy6SQUl0Q-20" target="mCMpDl1J_iWMy6SQUl0Q-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mCMpDl1J_iWMy6SQUl0Q-20" value="&lt;font color=&quot;#000000&quot;&gt;物料档案&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="mCMpDl1J_iWMy6SQUl0Q-20" value="&lt;font color=&quot;#000000&quot;&gt;新增-物料档案&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-102" y="423" width="160" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="mCMpDl1J_iWMy6SQUl0Q-22" value="新增商品" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="mCMpDl1J_iWMy6SQUl0Q-22" value="新增-商品档案" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-102" y="489" width="160" height="36" as="geometry" />
         </mxCell>
         <mxCell id="mCMpDl1J_iWMy6SQUl0Q-27" value="运营人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;dashed=1;fontColor=#000000;" vertex="1" parent="1">
@@ -86,6 +86,9 @@
         </mxCell>
         <mxCell id="mCMpDl1J_iWMy6SQUl0Q-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;dashed=1;fontColor=#000000;" edge="1" parent="1" source="mCMpDl1J_iWMy6SQUl0Q-27" target="mCMpDl1J_iWMy6SQUl0Q-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mCMpDl1J_iWMy6SQUl0Q-31" value="审核通过" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-233" y="446" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
