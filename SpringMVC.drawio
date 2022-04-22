@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-22T02:16:33.085Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="n1T6JcK6SVkY3UzJj5yS" version="17.4.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-22T07:30:57.243Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="XYQoS-Sx594498o_FgMG" version="17.4.6" type="github" pages="4">
   <diagram id="5MXw4xhUVfC1oZ3_CDKQ" name="Ioc使用流程">
     <mxGraphModel dx="1586" dy="719" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -57,6 +57,9 @@
         </mxCell>
         <mxCell id="yyy6M3HfFTC1LcittJ7_-7" value="BeanDefinitionReader" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-341.5" y="441" width="157" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SiUYfzDo3ZEtPN5LsXT_-1" value="BeanDefinitionReader" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;shadow=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-343" y="545" width="157" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
