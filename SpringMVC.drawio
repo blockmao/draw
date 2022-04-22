@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-22T13:56:34.857Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="KkxdnLKbf9bxgoXK3bIe" version="17.4.6" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-04-22T14:39:28.660Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="B-YfHrCu1IzmDOsg4Yoz" version="17.4.6" type="github" pages="5">
   <diagram id="5MXw4xhUVfC1oZ3_CDKQ" name="核心组件类">
     <mxGraphModel dx="1826" dy="719" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -177,7 +177,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="w6Ox4uFeYdVUL5W2W9KP-4" value="postProcessBeanFactory" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBorderColor=none;sketch=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="w6Ox4uFeYdVUL5W2W9KP-4" value="postProcessBeanFactory&lt;br&gt;BeanFactory的后处理" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBorderColor=none;sketch=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="483" y="-46" width="209" height="42" as="geometry" />
         </mxCell>
         <mxCell id="w6Ox4uFeYdVUL5W2W9KP-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="w6Ox4uFeYdVUL5W2W9KP-6" target="w6Ox4uFeYdVUL5W2W9KP-10">
